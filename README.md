@@ -9,6 +9,10 @@
 Once both images are created, Image Contest compares and analyzes them to determine a winner based on creativity, relevance, and visual appeal. Each image is rated from 1 to 5 stars using the ⭐ emoji to reflect its quality. The contest can be replayed up to three times, offering users multiple opportunities to refine their prompts and enjoy different outcomes. This format ensures a dynamic and enjoyable experience for users, blending creativity with AI technology.
 
 #
+
+> Alex: "*Uniquely competing directly with AI using a custom GPT in an image prompt contest.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
