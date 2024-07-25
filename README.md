@@ -1,4 +1,4 @@
-![Image Contest](https://github.com/user-attachments/assets/fbcc3f38-cfb8-4b37-b563-d450caf06952)
+![Image Contest](https://github.com/user-attachments/assets/3724119a-c010-4076-b05e-7f3917665cd7)
 
 > Compete against AI in an automated image contest using DALL-E 3.
 
